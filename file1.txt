@@ -1,2 +1,3 @@
 edit file1 hapus clone
 tambah 1
+tambah 2
